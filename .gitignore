@@ -1,0 +1,8 @@
+lfi-logs-challenge/*
+legacy-challenge/*
+picture-osint/*
+
+crm-core-backend/*
+!crm-core-backend/app.py
+legacy-auth-gateway/*
+!legacy-auth-gateway/app.py
